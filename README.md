@@ -1,7 +1,7 @@
 # Hi 👋, I'm Suki
 #### A passionate backend developer and DEVOPS engineer
 - 🔭 I’m currently working on [AgorApp](https://agorapp.dev/), [DAOLabs](https://daolabs.com/) and secret stuff
-- 🌱 I’m currently learning **Kubernetes** & **HackTheBox**
+- 🌱 I’m currently learning **Rust** :crab:, **HackTheBox** and **Kubernetes**
 - 👯 I’m looking to collaborate to **various Open-Source Projects**
 - 💬 Ask me about **Python, Django or Linux**
 
