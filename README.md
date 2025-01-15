@@ -1,7 +1,7 @@
 # Hi 👋, I'm Suki
 #### A passionate Python backend developer and DEVOPS engineer
 - 🔭 I’m currently working on [Najada Games](https://github.com/NajadaGames/), [AgorApp](https://agorapp.dev/), [DAOLabs](https://daolabs.com/) and more
-- 🌱 I’m currently learning **TypeScript**, **Kubernetes** and **HackTheBox**
+- 🌱 I’m currently learning **Ansible**, **Kubernetes** and **HackTheBox**
 - 👯 I’m looking to collaborate to **various Open-Source Projects**
 - 💬 Ask me about **Python, Django, Linux or Postgres**
 - ✨ Beginner in **Rust** :crab:
