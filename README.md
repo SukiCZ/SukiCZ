@@ -1,5 +1,5 @@
 # Hi 👋, I'm Suki
-#### A passionate Python backend developer and DEVOPS engineer
+#### A passionate Python backend developer and DevOps engineer
 - 🔭 I’m currently working on [Najada Games](https://github.com/NajadaGames/), [AgorApp](https://agorapp.dev/) and more
 - 🌱 I’m currently learning **Ansible**, **Kubernetes** and **HackTheBox**
 - 👯 I’m looking to collaborate to **various Open-Source Projects**
